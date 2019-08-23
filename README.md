@@ -1,3 +1,5 @@
-# datapush
+# viabtc data push system using websocket.
 
-a [Sails](http://sailsjs.org) application
+1) yarn install
+2) npm start
+
